@@ -1,1 +1,20 @@
-drill-down
+deluge
+nuanced
+raccoons
+drill-down 
+coerce 
+stem-and-leaf plot
+crowdsourced
+SPLOM 
+horsepower
+choropleth map
+Dorling cartogram
+spatial entities
+ubiquitously
+adjacency diagram 
+icicle layout 
+Squarified treemaps 
+Voronoi
+jigsaw treemaps 
+jiggle nodes 
+cliques 
